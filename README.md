@@ -1,7 +1,8 @@
 # 3D-Animation-CG
 
 Trabalho Final para a matéria de CG.
-Abaixo estão descrito os tópicos de requisitos pedidos na descrição do trabalho
+
+Abaixo estão descrito os tópicos de requisitos pedidos na descrição do trabalho:
 
 -A função requestAnimationFrame() foi utilizada na renderização da cena.
 
