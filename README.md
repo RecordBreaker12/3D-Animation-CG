@@ -21,4 +21,4 @@ Abaixo estão descrito os tópicos de requisitos pedidos na descrição do traba
 -A câmera pode ser movimentada utilizando o mouse.
 
 
-Este trabalho foi realizado com o grande auxílio das bibliotécas do WebGL e do Three.js
+Este trabalho foi realizado com o grande auxílio das bibliotécas e documentações do WebGL e do Three.js
