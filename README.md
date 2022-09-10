@@ -18,3 +18,6 @@ Abaixo estão descrito os tópicos de requisitos pedidos na descrição do traba
 -A criação de objetos é feito através da GUI padrão do Three.js.
 
 -A câmera pode ser movimentada utilizando o mouse.
+
+
+Este trabalho foi realizado com auxilio das bibliotécas do WebGL e do Three.js
